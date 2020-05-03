@@ -65,13 +65,12 @@ p {
     white,
     rgb(204, 2, 63)
   );
-  #details ~ h3{
-    font-family: "Impact"
-  }
-
   /* box-shadow: 0px 0px 10px rgba(0,0,0,0.15) inset; */
   border-bottom: 10px;
   width: 25%;
   color: white;
-  
 }
+
+#details  h3{
+  font-family: "Impact"
+} 
